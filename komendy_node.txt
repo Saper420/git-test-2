@@ -1,0 +1,9 @@
+autoprefixer-cli - poprawianie css
+html-validate - poprawność html
+npm install --save-dev NAZWA_PAKIETU - instalowanie pakietów
+[browser-sync - pakiet servera,
+autoprefixer-cli - pakiet poprawiania css pod przeglądarki
+html-validate - pakiet sprawdzania poprawności html]
+
+
+node_modules/.bin/browser-sync start --server --files "css/*.css" "*.html" - odpalnie servera localnego pod strone

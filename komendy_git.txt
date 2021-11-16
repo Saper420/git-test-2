@@ -1,0 +1,9 @@
+git push - wysyłanie zmiany z locala (za pierwszym razem dodajemy -u origin master/main)
+git pull - pobieranie zmiany ze zdalnego
+git status - sprawdzanie czy wszystko ok z repo
+git add . && git commit -m "TYTUL_COMMITA" - zapisywanie i dodawanie nowego commit
+git clone LINK_DO_REPO - pobieranie nowego repo
+git remote add origin LINK_DO_REPO - łączenie zdalnego repo do lokalnego
+git init - inicjowanie gita
+git tag "TYTUL_TAGA" - dodaje tag do commita
+git tree - pokazuje histroje repo
